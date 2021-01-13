@@ -4,11 +4,11 @@
  * A dictonary with bot configurations
  */
 module.exports = {
-    prefix: "pp",
-    currency: "786310544793010196",
-    verification: "774640628374044723",
-    workerRoles: "775150876418506792",
-    botGuild: "709698572035162143",
+    prefix: "www!",
+    currency: "739866637951565874",
+    verification: "751188797999546378",
+    workerRoles: "738685707476009041",
+    botGuild: "708861384968110101",
     noiceboardMinValue: 3,
     maxOrders: 15,
     proAmount: 250,
